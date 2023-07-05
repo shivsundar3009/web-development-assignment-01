@@ -1,0 +1,20 @@
+.b1 {
+    font-weight: 900;
+}
+
+#ta1 {
+    margin-left: 25px;
+}
+
+#ta3 {
+    margin-left: 8px;
+}
+#spanDiv{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.li1{
+    list-style: circle;
+    margin-left: 45px;
+}
